@@ -96,7 +96,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓',
     admin: 'This feature is only for admins!',
-    botAdmin: 'Bot Must Be Admin First!',
+    botAdmin: 'ana maxi admin!',
     owner: 'This feature is only for owner',
     group: 'This feature is only for groups!',
     private: 'This feature is only for private chats!',
