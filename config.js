@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['212705570169'] //ur owner number
-global.ownername = "Amin🙂"
-global.ytname = "YT:😏" //ur yt chanel name
-global.socialm = "GitHub: ???" //ur github or insta name
-global.location = "Morocco, tetouan" //ur location
+global.owner = ['+212674874107'] //ur owner number
+global.ownername = "yassine 🧑‍🦯"
+global.ytname = "YT:yassine A6" //ur yt chanel name
+global.socialm = "insta: 7x8.q_" //ur github or insta name
+global.location = "Morocco, Agadir" //ur location
 
 //bot bombdy
-global.botname = "NAMX-BOT" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.botname = "ZENX1-BOT" //ur bot name
+global.websitex = "https://chat.whatsapp.com/JmXUEkiDeL72hXAGDLFXI3" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.packname = "Z E N X 1 🧑‍🦯 "
+global.author = "yassine 🧑‍🦯"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
+global.ownertag = ['+212674874107'] //ur owner tag
+global.ownernummenu = ['+212674874107'] //ur owner number in menu and all
 global.watermark = "Xeon Bot Inc." //ur watermark
 global.botscript = "https://github.com"
-global.linkz1 = "https://chat.whatsapp.com"
-global.linkz2 = "https://chat.whatsapp.com"
+global.linkz1 = "https://chat.whatsapp.com/JmXUEkiDeL72hXAGDLFXI3"
+global.linkz2 = "https://chat.whatsapp.com/JmXUEkiDeL72hXAGDLFXI3"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -96,7 +96,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓',
     admin: 'This feature is only for admins!',
-    botAdmin: 'ana maxi admin!',
+    botAdmin: 'im not admin!',
     owner: 'This feature is only for owner',
     group: 'This feature is only for groups!',
     private: 'This feature is only for private chats!',
